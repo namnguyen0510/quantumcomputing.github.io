@@ -4,4 +4,4 @@ Optimization indeed plays an indispensable role in any machine learning and deep
 
 ## Background
 ### Ising Model and Quadratic Unconstrained Binary Optimization (QUBO)
-\\( a^2 = b^2 \\) $a^2$
+\\( a^2 = b^2 \\) $`a^2`$
