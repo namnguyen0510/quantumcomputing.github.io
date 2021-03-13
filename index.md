@@ -1,3 +1,3 @@
 # Quantum Computing
 ## Discrete-variable Quantum Computing
-<img src="https://latex.codecogs.com/svg.latex? x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=a^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^2" title="a^2" /></a>
